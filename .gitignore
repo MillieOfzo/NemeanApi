@@ -1,0 +1,11 @@
+*.csv
+*.pdf
+*.log
+*.zip
+*.xml
+
+tests/*
+.idea/*
+
+config/config.class.php
+
